@@ -1,4 +1,7 @@
-*
-!.config/tmux/
+/*
+.config/*
+!.config
+!.config/tmux/tmux.conf
 !.config/alacritty/
+!.config/btop/
 !.gitignore
