@@ -4,4 +4,5 @@
 !.config/tmux/tmux.conf
 !.config/alacritty/
 !.config/btop/
+!.config/nvim/
 !.gitignore
