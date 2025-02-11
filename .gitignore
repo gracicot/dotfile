@@ -1,7 +1,9 @@
 /*
 .config/*
 !.config
-!.config/tmux/tmux.conf
+!.config/tmux
+.config/tmux/plugins/*
+!.config/tmux/plugins/catppuccin
 !.config/alacritty/
 !.config/btop/
 !.config/nvim/
