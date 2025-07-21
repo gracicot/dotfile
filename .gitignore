@@ -5,6 +5,7 @@
 .config/tmux/plugins/*
 !.config/tmux/plugins/catppuccin
 !.config/alacritty/
+!.config/ghostty/
 !.config/btop/
 !.config/nvim/
 !.gitignore
