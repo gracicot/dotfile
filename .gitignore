@@ -4,6 +4,7 @@
 !.config/tmux
 .config/tmux/plugins/*
 !.config/tmux/plugins/catppuccin
+!.config/tmux/plugins/tmux-sensible
 !.config/alacritty/
 !.config/ghostty/
 !.config/btop/
