@@ -8,5 +8,6 @@
 !.config/alacritty/
 !.config/ghostty/
 !.config/btop/
+.config/btop/btop.log
 !.config/nvim/
 !.gitignore
