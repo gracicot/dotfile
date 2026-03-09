@@ -6,6 +6,6 @@ clipboard-read = allow
 clipboard-write = allow
 window-decoration = server
 window-colorspace = display-p3
-font-size = 10
+font-size = 11
 
 config-file = ?local
