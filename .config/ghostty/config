@@ -45,4 +45,4 @@ theme = catppuccin-mocha.conf
 
 clipboard-read = allow
 clipboard-write = allow
-font-size = 12.5
+config-file = ?local
