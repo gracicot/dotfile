@@ -11,3 +11,6 @@
 .config/btop/btop.log
 !.config/nvim/
 !.gitignore
+!.config/git/
+.config/git/*
+!.config/git/config
