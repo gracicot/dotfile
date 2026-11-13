@@ -9,3 +9,6 @@ window-colorspace = display-p3
 font-size = 11
 
 config-file = ?local
+
+scrollback-limit = 200000
+mouse-scroll-multiplier = precision:0.8,discrete:3
